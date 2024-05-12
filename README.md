@@ -9,8 +9,9 @@ This Extension just adds one new command: **BM**
 
 It will search your currently open Editor for comments, that start with ` BM: `.
 
-![Demonstration](https://github.com/Rocco-Gossmann/VSCode-CommentBookmarks/raw/main/img/demo.mp4)
+https://github.com/Rocco-Gossmann/VSCode-CommentBookmarks/img/demo.mp4
 
+https://github.com/Rocco-Gossmann/VSCode-CommentBookmarks/assets/127580387/8c8c8885-b223-45be-a35f-569eb56343ba
 
 Example Comments:
 ```c++
