@@ -1,6 +1,6 @@
 # BookmarkComments
 
-Do you know `// TODO: comments` ? This extension makes use of the kind of schema, to add Bookmarks to your Code.  Think of it a QuickSearch for specific lines.
+Do you know `// TODO: comments`? This VSCode-Extension makes use of the kind of schema, to add Bookmarks to your Code. Then allows you to jump to different Bookmarks inside the current open File.
 
 
 ## Features
