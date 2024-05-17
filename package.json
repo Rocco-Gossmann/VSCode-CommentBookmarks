@@ -3,7 +3,7 @@
   "repository": {"url": "https://github.com/Rocco-Gossmann/VSCode-CommentBookmarks"},
   "displayName": "BookmarkComments",
   "description": "Add Bookmarks to your Code by leaving comments.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.88.1"
   },

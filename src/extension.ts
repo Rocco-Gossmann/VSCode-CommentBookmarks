@@ -26,10 +26,10 @@ export function activate(context: vscode.ExtensionContext) {
 		}
 
 		vscode.window.activeTextEditor?.document.getText().split("\n").reduce( (idx, line) => {
-			const hit = line.match(/(\/\*|\/\/|--|#|\[\[)\s*BM:(.+)$/);
+			const hit = (/(\/\*|\/\/|--|#|\[\[)\s*BM:(.+)$/gm).exec(line);
 
 			if(hit) {
-				opts.set(idx, {label: hit[2]});
+				opts.set(idx, {"label": hit[2]});
 			}
 			idx++;
 
