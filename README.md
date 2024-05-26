@@ -24,6 +24,10 @@ Example Comments:
 
 
 ## Release Notes
+### 0.2.0
+- Added support for PHP-Smarty comments
+- Removed the End of Block-Comments from the Bookmark-Text
+- Lowered VSCode Version requirements to 1.88.0
 
 ### 0.1.0
 - Made Bookmark detection more reliable
