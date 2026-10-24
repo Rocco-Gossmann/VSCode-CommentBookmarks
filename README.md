@@ -1,4 +1,4 @@
-# BookmarkComments
+# CommentBookmarks
 
 Do you know `// TODO: comments`? This VSCode-Extension makes use of the kind of schema, to add Bookmarks to your Code. Then allows you to jump to different Bookmarks inside the current open File.
 
