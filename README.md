@@ -21,7 +21,7 @@ Example Comments:
 -- BM: My Lua comment
 ```
 
-## Known Issiue
+## Known Issues
 - If you use Smooth-Scrolling, the line may not appear until you navigate with the cursor.
 No idea how to prevent this. VSCode-Docs are little helpfull in that regard
 
